@@ -1,0 +1,14 @@
+repo: là một dự án, nơi chứ source code, có 2 loại lưu ở 2 nơi một nơi là máy chủ local còn lại là remote local
+commit: là những thay đổi dc thực hiện và lưu lại trong repo
+branch: các nhánh
+--các lệnh
+git init: tạo ra một repo trong máy local của mình
+git clone: lấy repo từ trên mạng về
+git pull: đồng bộ repo lấy từ trên mạng với máy mình
+
+git add và git add. : thêm file sửa file
+git commit : thêm file sửa file
+git push: đồng bộ repo trên máy và trên mạng
+
+git log, git status: check trạng thái
+
